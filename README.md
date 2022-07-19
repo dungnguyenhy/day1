@@ -1,4 +1,4 @@
-# flutter_ui_day_1
+# flutter_ui_lesson 1
 
 A new Flutter project.
 
